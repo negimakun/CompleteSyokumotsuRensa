@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/K018A1462_seisaku/teamSinjo/よしみ新劇場版/SyokumotsuRensa/SyokumotsuRensa/Content/slash.png</SourceFile>
+  <SourceFile>C:/K018A1462_seisaku/monogame/Seisaku/CompleteSyokumotsuRensa/SyokumotsuRensa/SyokumotsuRensa/Content/slash.png</SourceFile>
   <SourceTime>2019-09-24T18:07:30.907176+09:00</SourceTime>
-  <DestFile>C:/K018A1462_seisaku/teamSinjo/よしみ新劇場版/SyokumotsuRensa/SyokumotsuRensa/Content/bin/Windows/slash.xnb</DestFile>
-  <DestTime>2019-09-24T18:09:07.2381344+09:00</DestTime>
+  <DestFile>C:/K018A1462_seisaku/monogame/Seisaku/CompleteSyokumotsuRensa/SyokumotsuRensa/SyokumotsuRensa/Content/bin/Windows/slash.xnb</DestFile>
+  <DestTime>2019-09-24T20:58:55.0745998+09:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

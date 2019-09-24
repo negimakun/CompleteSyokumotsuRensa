@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/K018A1462_seisaku/teamSinjo/よしみ新劇場版/SyokumotsuRensa/SyokumotsuRensa/Content/SE/eat.mp3</SourceFile>
+  <SourceFile>C:/K018A1462_seisaku/monogame/Seisaku/CompleteSyokumotsuRensa/SyokumotsuRensa/SyokumotsuRensa/Content/SE/eat.mp3</SourceFile>
   <SourceTime>2019-09-24T18:07:30.438428+09:00</SourceTime>
-  <DestFile>C:/K018A1462_seisaku/teamSinjo/よしみ新劇場版/SyokumotsuRensa/SyokumotsuRensa/Content/bin/Windows/SE/eat.xnb</DestFile>
-  <DestTime>2019-09-24T18:09:05.9920263+09:00</DestTime>
+  <DestFile>C:/K018A1462_seisaku/monogame/Seisaku/CompleteSyokumotsuRensa/SyokumotsuRensa/SyokumotsuRensa/Content/bin/Windows/SE/eat.xnb</DestFile>
+  <DestTime>2019-09-24T20:58:54.0098896+09:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
   <Processor>SongProcessor</Processor>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>C:/K018A1462_seisaku/teamSinjo/よしみ新劇場版/SyokumotsuRensa/SyokumotsuRensa/Content/bin/Windows/SE/eat.wma</string>
+    <string>C:/K018A1462_seisaku/monogame/Seisaku/CompleteSyokumotsuRensa/SyokumotsuRensa/SyokumotsuRensa/Content/bin/Windows/SE/eat.wma</string>
   </BuildOutput>
 </PipelineBuildEvent>
