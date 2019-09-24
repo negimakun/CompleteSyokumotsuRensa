@@ -55,7 +55,7 @@ namespace SyokumotsuRensa
         {
             // この下にロジックを記述
             gameDevice = GameDevice.Instance(Content, GraphicsDevice);
-            Window.Title="うんこ";
+            Window.Title="マキバディフェンダー";
             sceneManager = new SceneManager();
             sceneManager.Add(SceneName.Title,new Title());
             sceneManager.Add(SceneName.Load, new Load());
