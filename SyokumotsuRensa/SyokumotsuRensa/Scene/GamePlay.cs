@@ -31,6 +31,7 @@ namespace SyokumotsuRensa.Scene
         private BGMLoader bgmLoader;
         bool handFlag;
 
+        int preciouswave;
 
         Button titleButton;
         Button nextDay;
@@ -113,7 +114,7 @@ namespace SyokumotsuRensa.Scene
             waveDays = new Vector2(50, 800);
             waveDaysMid = new Vector2(475, 350);
             alpha = 1.0f;
-
+            preciouswave = Wave.currentWave;
         }
 
         public bool IsEnd()
@@ -133,6 +134,11 @@ namespace SyokumotsuRensa.Scene
 
         public void Update(GameTime gameTime)
         {
+            if (preciouswave != Wave.currentWave)
+            {
+                alpha = 1.0f;
+            }
+            preciouswave = Wave.currentWave;
             alpha -= 0.7f / 60;
             if (Input.GetKeyState(Keys.E) && Input.GetKeyState(Keys.X) && Input.GetKeyState(Keys.I) && Input.GetKeyTrigger(Keys.T))
             {
@@ -284,7 +290,7 @@ namespace SyokumotsuRensa.Scene
             renderer.DrawTexture("chicken", StocPos.stocPosUI);
             renderer.DrawTexture("pig", StocPos.stocPos2UI);
             renderer.DrawTexture("cow", StocPos.stocPos3UI);
-            renderer.DrawTexture("glass", StocPos.stockGlassUI);
+            renderer.DrawTexture("matomattaglass", StocPos.stockGlassUI);
 
 
             wave.Draw(renderer);

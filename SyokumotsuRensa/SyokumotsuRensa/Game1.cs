@@ -134,6 +134,7 @@ namespace SyokumotsuRensa
             renderer.LoadContent("wolf_redeyes");
             renderer.LoadContent("Yoru");
             renderer.LoadContent("suna");
+            renderer.LoadContent("matomattaglass");
             // この上にロジックを記述
         }
 

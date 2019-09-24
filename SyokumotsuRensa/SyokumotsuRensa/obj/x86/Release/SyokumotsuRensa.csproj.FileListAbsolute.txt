@@ -101,3 +101,4 @@ C:\K018A1462_seisaku\monogame\Seisaku\CompleteSyokumotsuRensa\SyokumotsuRensa\Sy
 C:\K018A1462_seisaku\monogame\Seisaku\CompleteSyokumotsuRensa\SyokumotsuRensa\SyokumotsuRensa\obj\x86\Release\SyokumotsuRensa.csproj.CopyComplete
 C:\K018A1462_seisaku\monogame\Seisaku\CompleteSyokumotsuRensa\SyokumotsuRensa\SyokumotsuRensa\obj\x86\Release\SyokumotsuRensa.exe
 C:\K018A1462_seisaku\monogame\Seisaku\CompleteSyokumotsuRensa\SyokumotsuRensa\SyokumotsuRensa\obj\x86\Release\SyokumotsuRensa.pdb
+C:\K018A1462_seisaku\monogame\Seisaku\CompleteSyokumotsuRensa\SyokumotsuRensa\SyokumotsuRensa\bin\Windows\x86\Release\Content\matomattaglass.xnb
